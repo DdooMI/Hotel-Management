@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive - Assuit University\\Desktop\\HotelManagementDDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5368F4ED-3A66-4875-BC74-86D51377F015}|HotelManagementDDB\\HotelManagementDDB.csproj|c:\\users\\dell\\onedrive - assuit university\\desktop\\hotelmanagementddb\\hotelmanagementddb\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5368F4ED-3A66-4875-BC74-86D51377F015}|HotelManagementDDB\\HotelManagementDDB.csproj|solutionrelative:hotelmanagementddb\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5368F4ED-3A66-4875-BC74-86D51377F015}|HotelManagementDDB\\HotelManagementDDB.csproj|C:\\Users\\DELL\\OneDrive - Assuit University\\Desktop\\HotelManagementDDB\\hotelmanagementddb\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5368F4ED-3A66-4875-BC74-86D51377F015}|HotelManagementDDB\\HotelManagementDDB.csproj|solutionrelative:hotelmanagementddb\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5368F4ED-3A66-4875-BC74-86D51377F015}|HotelManagementDDB\\HotelManagementDDB.csproj|C:\\Users\\DELL\\OneDrive - Assuit University\\Desktop\\HotelManagementDDB\\hotelmanagementddb\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5368F4ED-3A66-4875-BC74-86D51377F015}|HotelManagementDDB\\HotelManagementDDB.csproj|solutionrelative:hotelmanagementddb\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5368F4ED-3A66-4875-BC74-86D51377F015}|HotelManagementDDB\\HotelManagementDDB.csproj|C:\\Users\\DELL\\OneDrive - Assuit University\\Desktop\\HotelManagementDDB\\hotelmanagementddb\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5368F4ED-3A66-4875-BC74-86D51377F015}|HotelManagementDDB\\HotelManagementDDB.csproj|solutionrelative:hotelmanagementddb\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5368F4ED-3A66-4875-BC74-86D51377F015}|HotelManagementDDB\\HotelManagementDDB.csproj|C:\\Users\\DELL\\OneDrive - Assuit University\\Desktop\\HotelManagementDDB\\hotelmanagementddb\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5368F4ED-3A66-4875-BC74-86D51377F015}|HotelManagementDDB\\HotelManagementDDB.csproj|solutionrelative:hotelmanagementddb\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5368F4ED-3A66-4875-BC74-86D51377F015}|HotelManagementDDB\\HotelManagementDDB.csproj|C:\\Users\\DELL\\OneDrive - Assuit University\\Desktop\\HotelManagementDDB\\hotelmanagementddb\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5368F4ED-3A66-4875-BC74-86D51377F015}|HotelManagementDDB\\HotelManagementDDB.csproj|solutionrelative:hotelmanagementddb\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5368F4ED-3A66-4875-BC74-86D51377F015}|HotelManagementDDB\\HotelManagementDDB.csproj|C:\\Users\\DELL\\OneDrive - Assuit University\\Desktop\\HotelManagementDDB\\hotelmanagementddb\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5368F4ED-3A66-4875-BC74-86D51377F015}|HotelManagementDDB\\HotelManagementDDB.csproj|solutionrelative:hotelmanagementddb\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5368F4ED-3A66-4875-BC74-86D51377F015}|HotelManagementDDB\\HotelManagementDDB.csproj|C:\\Users\\DELL\\OneDrive - Assuit University\\Desktop\\HotelManagementDDB\\hotelmanagementddb\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5368F4ED-3A66-4875-BC74-86D51377F015}|HotelManagementDDB\\HotelManagementDDB.csproj|solutionrelative:hotelmanagementddb\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - Assuit University\\Desktop\\HotelManagementDDB\\HotelManagementDDB\\Reservation.cs",
+              "RelativeDocumentMoniker": "HotelManagementDDB\\Reservation.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive - Assuit University\\Desktop\\HotelManagementDDB\\HotelManagementDDB\\Reservation.cs",
+              "RelativeToolTip": "HotelManagementDDB\\Reservation.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:37:35.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - Assuit University\\Desktop\\HotelManagementDDB\\HotelManagementDDB\\Room.cs",
+              "RelativeDocumentMoniker": "HotelManagementDDB\\Room.cs",
+              "ToolTip": "D:\\UNI\\\u0645\u0634\u0627\u0631\u064A\u0639\\HotelManagementDDB\\HotelManagementDDB\\Room.cs*",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:37:19.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Room.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - Assuit University\\Desktop\\HotelManagementDDB\\HotelManagementDDB\\Room.cs",
+              "RelativeDocumentMoniker": "HotelManagementDDB\\Room.cs",
+              "ToolTip": "D:\\UNI\\\u0645\u0634\u0627\u0631\u064A\u0639\\HotelManagementDDB\\HotelManagementDDB\\Room.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:43:16.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reservation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - Assuit University\\Desktop\\HotelManagementDDB\\HotelManagementDDB\\Reservation.cs",
+              "RelativeDocumentMoniker": "HotelManagementDDB\\Reservation.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive - Assuit University\\Desktop\\HotelManagementDDB\\HotelManagementDDB\\Reservation.cs [Design]",
+              "RelativeToolTip": "HotelManagementDDB\\Reservation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:34:36.734Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Staff.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - Assuit University\\Desktop\\HotelManagementDDB\\HotelManagementDDB\\Staff.cs",
+              "RelativeDocumentMoniker": "HotelManagementDDB\\Staff.cs",
+              "ToolTip": "D:\\UNI\\\u0645\u0634\u0627\u0631\u064A\u0639\\HotelManagementDDB\\HotelManagementDDB\\Staff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:28:29.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - Assuit University\\Desktop\\HotelManagementDDB\\HotelManagementDDB\\Client.cs",
+              "RelativeDocumentMoniker": "HotelManagementDDB\\Client.cs",
+              "ToolTip": "D:\\UNI\\\u0645\u0634\u0627\u0631\u064A\u0639\\HotelManagementDDB\\HotelManagementDDB\\Client.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:06:27.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - Assuit University\\Desktop\\HotelManagementDDB\\HotelManagementDDB\\MainForm.cs",
+              "RelativeDocumentMoniker": "HotelManagementDDB\\MainForm.cs",
+              "ToolTip": "D:\\UNI\\\u0645\u0634\u0627\u0631\u064A\u0639\\HotelManagementDDB\\HotelManagementDDB\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T14:51:44.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LogIn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - Assuit University\\Desktop\\HotelManagementDDB\\HotelManagementDDB\\LogIn.cs",
+              "RelativeDocumentMoniker": "HotelManagementDDB\\LogIn.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive - Assuit University\\Desktop\\HotelManagementDDB\\HotelManagementDDB\\LogIn.cs [Design]",
+              "RelativeToolTip": "HotelManagementDDB\\LogIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T14:40:04.304Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
